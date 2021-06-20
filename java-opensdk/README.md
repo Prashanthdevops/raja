@@ -1,4 +1,4 @@
-# TestProject OpenSDK For Java
+## TestProject OpenSDK For Java
 
 ![Build](https://github.com/testproject-io/java-opensdk/workflows/Build/badge.svg)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.testproject/java-sdk/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.testproject/java-sdk)

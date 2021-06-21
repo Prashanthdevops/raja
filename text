@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+bbbbbkbkjbkjbjk
+hi
+=======
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,3 +29,4 @@ namespace check1
         }
     }
 }
+>>>>>>> 25c572009ba915ee1c4d5e2e3c11e90be8f02cd8
